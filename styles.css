@@ -1,0 +1,36 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #quote-container {
+    margin-bottom: 20px;
+  }
+  
+  #quote-text {
+    font-size: 18px;
+    font-style: italic;
+  }
+  
+  #quote-author {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  #new-quote-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
